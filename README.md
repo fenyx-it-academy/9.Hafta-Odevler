@@ -2,12 +2,10 @@
 
 ODEV 1:
 Asagida ozellikleri belirtilen 4 fonksiyon belirtiniz.
-
 	1.	Tek sayi kontrolu yapan fonksiyon,
 	2	  Cift sayi kontrolu yapan fonksiyon,
 	3.	3’e bolunme kontrolu yapan fonksiyon,
 	4.  5’e bolunme kontrolu yapan fonksiyon. 
-
 	5. bir fonksiyon yazin ve bu ilksayi ve sonsayi seklinde iki parametre alsin.
 		-	Parametre baslangic sayisi, 
 		-	Parametre bitis sayisi.
