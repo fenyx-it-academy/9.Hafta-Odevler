@@ -7,12 +7,10 @@ Asagida ozellikleri belirtilen 4 fonksiyon belirtiniz.
 4. 5’e bolunme kontrolu yapan fonksiyon.
 
 Bunlardan ayri 5. bir fonksiyon yazin ve bu ilksayi ve sonsayi seklinde iki parametre alsin.
-    -Parametre baslangic sayisi, 
-    -Parametre bitis sayisi.
 
 Yukarida olusturdugunuz ilk 4 fonksiyonu son olusturdugunuz fonksiyonun icinde calistirarak islemler yapiniz.
 Fonksiyon verdiginiz baslangic ve bitis sayilarina gore bir liste olusturmali ve listenin icindeki sayilari
-tek-cift-3'un kati-5'in kati durumlarina gore kontrol etmeli. Uygun durumlarda ilgili fonksiyonu cagirip o 
+tek - cift - 3'un kati - 5'in kati durumlarina gore kontrol etmeli. Uygun durumlarda ilgili fonksiyonu cagirip o 
 duruma iliskin bir cikti vermeli. 
 
 	Orn: def sayikontrol(ilksayi,sonsayi)
