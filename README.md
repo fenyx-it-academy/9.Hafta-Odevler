@@ -10,8 +10,7 @@ Bunlardan ayri 5. bir fonksiyon yazin ve bu ilksayi ve sonsayi seklinde iki para
 
 Yukarida olusturdugunuz ilk 4 fonksiyonu son olusturdugunuz fonksiyonun icinde calistirarak islemler yapiniz.
 Fonksiyon verdiginiz baslangic ve bitis sayilarina gore bir liste olusturmali ve listenin icindeki sayilari
-tek - cift - 3'un kati - 5'in kati durumlarina gore kontrol etmeli. Uygun durumlarda ilgili fonksiyonu cagirip o 
-duruma iliskin bir cikti vermeli. 
+yukarida olusturdugunuz 4 fonksiyon yardimi ile tek - cift - 3'un kati - 5'in kati durumlarina gore kontrol etmeli. Uygun durumlarda ilgili fonksiyonun ciktisini vermeli. 
 
 	Orn: def sayikontrol(ilksayi,sonsayi)
 
