@@ -51,7 +51,7 @@ pzt = [
   {
     isim: 'bayramlasma',
     sure: 200,
-  },
+  }
 ]
 
 sali = [
@@ -74,7 +74,7 @@ sali = [
   {
     isim: 'spor yap',
     sure: 40,
-  },
+  }
 ]
 
 Not: Sureler dakika cinsindendir!
