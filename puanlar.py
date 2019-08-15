@@ -1,12 +1,12 @@
 #odev 3 hafta 9#
-#yapýlan iþ karsýlýgý kazanýlan puanlar#
+#yapilan is karsiligi kazanilan puanlar#
 
 pazartesi=[{'isim':'Fonksiyonlara calis', 'sure': 180,},
      {'isim':'ornek coz', 'sure': 120,},
      {'isim':'odev kontrol', 'sure': 20,},
      {'isim':'pes', 'sure': 200,}]
-sali=[{'isim':'futbol', 'sure': 240,},
-      {'isim':'masa tenisi', 'sure': 170,},
+sali=[{'isim':'voetball', 'sure': 240,},
+      {'isim':'tafeltennis', 'sure': 170,},
       {'isim':'film', 'sure': 100,},
       {'isim':'dutch', 'sure': 200,},
       {'isim':'wandelen', 'sure': 40,}]
@@ -30,6 +30,6 @@ print("120 dk veya fazla olan sureler:  ",b)
 c=list(map(yuvarla,b))
 print("puanlar:  ",c)
 d=reduce(top,c)
-print("toplam puanýnýz tebrikler!!:  ",d)
+print("toplam puaniniz tebrikler!!:  ",d)
 
 
