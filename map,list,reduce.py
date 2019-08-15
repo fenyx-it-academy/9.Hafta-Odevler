@@ -1,5 +1,5 @@
 #odev 2 hafta 9#
-#tek ssayıları listeliyoruz# 
+#tek sayıları listeliyoruz# 
 #iki ile carpıyoruz#
 #ve son listeyi topluyoruz#
 
