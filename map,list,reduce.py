@@ -1,7 +1,7 @@
 #odev 2 hafta 9#
-#tek ssayıları listeliyoruz 
-iki ile carpıyoruz
-ve son listeyi topluyoruz#
+#tek ssayÄ±larÄ± listeliyoruz# 
+#iki ile carpÄ±yoruz#
+#ve son listeyi topluyoruz#
 
 from functools import reduce
 
@@ -15,8 +15,8 @@ def topla(a,b):
 say=range(1,10)
 
 b=list(filter(tek,say))
-print("tek sayılar:  ",b)
+print("tek sayÄ±lar:  ",b)
 c=list(map(carp,b))
-print("tek sayıların iki ile carpımı:  ",c)
-print("son liste toplamı:  ",reduce(topla,c))
+print("tek sayÄ±larÄ±n iki ile carpÄ±mÄ±:  ",c)
+print("son liste toplamÄ±:  ",reduce(topla,c))
 
