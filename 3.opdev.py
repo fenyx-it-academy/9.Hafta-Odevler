@@ -42,6 +42,5 @@ sali = [
 
 
 ]
+print(reduce(lambda x,y:x+y,map(lambda x:round(x),map(lambda x:x*20,filter(lambda x:x>=2,map(lambda x:x/60,map(lambda x:x['sure'],pzt+sali)))))))
 
-
-print(reduce(lambda x,y:x+y,list(map(lambda x:round(x),list(map(lambda x:x*20,list(filter(lambda x:x>=2,list(map(lambda x:x/60,list(map(lambda x:x['sure'],pzt+sali))))))))))))
