@@ -18,6 +18,8 @@ def sayi(x):
 def uygun(x):
     if x>=120:
         return x
+def cevir(x):
+     return round(x/60)
 def yuvarla(x):
     return round(x*20/60)
 def top(a,b):
@@ -27,6 +29,8 @@ a=list(map(sayi,toplam))
 print ("sureler:  ",a)
 b=list(filter(uygun,a))
 print("120 dk veya fazla olan sureler:  ",b)
+e=list(map(cevir,b))
+print("surelerin saat cinsi:  ",e)
 c=list(map(yuvarla,b))
 print("puanlar:  ",c)
 d=reduce(top,c)
