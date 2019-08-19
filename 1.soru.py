@@ -6,11 +6,11 @@ bes=lambda sayi:sayi%5==0
 def sayikontrol(sayi):
   if bes(sayi):
     print(sayi, "besin katidir.")
-  elif uc(sayi):
+  if uc(sayi):
     print(sayi,"ucun katidir. " )
-  elif ciftsayi(sayi):
+  if ciftsayi(sayi):
     print(sayi," cift sayidir. ")
-  elif teksayi(sayi):
+  if teksayi(sayi):
     print(sayi," tek sayidir. ")
 
 sayi1 = input("Birinci sayi araligini giriniz: ")
