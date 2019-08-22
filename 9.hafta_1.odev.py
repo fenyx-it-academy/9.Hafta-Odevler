@@ -62,4 +62,4 @@ def sayi_kontrol(baslangic,bitis):
 baslangic=int(input('baslangic sayisini giriniz...:'))
 bitis=int(input('bitis sayisini giriniz.......:'))
 
-sayi_kontrol(baslangic,bitis)   # sayi kontrol fonk cagirdik
+sayi_kontrol(baslangic,bitis)   # sayi kontrol fonk cagirdik.
