@@ -12,4 +12,3 @@ def operation(*args):
     print(f"The operation list: {nums},\nDoubled odd numbers: {liste_op},"
           f"\nAnd the total is »»{reduce(lambda a, b: a + b, liste_op)}««")
 operation(nums)
-
